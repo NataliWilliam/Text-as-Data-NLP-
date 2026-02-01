@@ -70,6 +70,4 @@ usage - Differences across demographic groups
 -   No attempt is made to identify individuals.
 -   Analysis is conducted only at an aggregate level.
 
-## ✍️ Author
 
-Project completed as part of a Text as Data (TaD) course project.
